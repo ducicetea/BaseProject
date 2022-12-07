@@ -1,0 +1,22 @@
+{
+  "name": "com.bravestars.baseproject",
+  "version": "1.0.0",
+  "displayName": "BaseProject",
+  "description": "This is an base project",
+  "unity": "2020.3",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ],
+  "author": {
+    "name": "Bravestars",
+    "email": "bravestars@example.com",
+    "url": "https://www.unity3d.com"
+  },
+  "type": "library"
+}
