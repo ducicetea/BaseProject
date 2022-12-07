@@ -1,2 +1,0 @@
-# BaseProject
-Bravestars Base Project
